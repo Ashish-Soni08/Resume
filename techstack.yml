@@ -1,0 +1,20 @@
+repo_name: Ashish-Soni08/resume
+report_id: f906c24d6a11c8117515d9cd42d54663
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-08T14:34:32+00:00'
+requested_by: Ashish-Soni08
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Ashish-Soni08/resume
+  detection_source: Repo Metadata
